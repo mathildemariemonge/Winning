@@ -1,6 +1,6 @@
 # Winning-
 
-![alt text](https://github.com/mathildemariemonge/Winning-/blob/main/WINNING.png)
+![alt text](https://github.com/mathildemariemonge/Winning/blob/main/WINNING.png)
 
 We two as Mathilde and Ilkay are going to win the Euromillions lottery with a machine learning model. We will train the model with the past years winner numbers and predict the possibility of winning depending on frequency of numbers. The data is from Kaggle.com and it includes 1318 rows and 10 columns. 
 
